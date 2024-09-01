@@ -7,16 +7,13 @@ func isPalindrome(x int) bool {
         return true
     }
 
-    if x % 10 == 0 {
-        return false
+    temp := x
+    rev := 0
+
+    for temp > 0 {
+        rev = rev * 10 + (temp % 10)
+        temp /= 10
     }
-
-    revHalf := 0
-
-    for x > revHalf {
-        revHalf = revHalf * 10 + (x % 10)
-        x /= 10
-    }
-
-    return x == revHalf || x == revHalf / 10
+    
+    return rev == x
 }
