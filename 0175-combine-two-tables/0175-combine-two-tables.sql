@@ -1,2 +1,2 @@
 # Write your MySQL query statement below
-SELECT Person.firstName, Person.lastName, Address.city, Address.State FROM Person LEFT JOIN Address ON Person.personId = Address.personId;
+SELECT p.firstName, p.lastName, a.city, a.State FROM Person p LEFT JOIN Address a ON p.personId = a.personId;
