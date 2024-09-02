@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/andriawan24/leetcode-practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/andriawan24/leetcode-practice/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Matrix
 |  |
@@ -22,5 +23,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/andriawan24/leetcode-practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/andriawan24/leetcode-practice/tree/master/2132-convert-1d-array-into-2d-array) |
+## Binary Search
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/andriawan24/leetcode-practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Prefix Sum
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/andriawan24/leetcode-practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
