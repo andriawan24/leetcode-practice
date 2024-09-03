@@ -1,19 +1,21 @@
 class Solution {
     public int getLucky(String s, int k) {
-        String transformed = "";
-        for (int i = 0; i < s.length(); i++) {
-            transformed += ((int) s.charAt(i)) - 96;
+        StringBuilder transformed = new StringBuilder();
+        for (char i: s.toCharArray()) {
+            transformed.append(i - 'a' + 1);
         }
+
+        s = transformed.toString();
+
         int result = 0;
-        String tempTransformed = transformed;
         for (int i = 0; i < k; i++) {
-            int tempResult = 0;
-            for (char numChar: tempTransformed.toCharArray()) {
+            int sum = 0;
+            for (char numChar: s.toCharArray()) {
                 int num = Character.getNumericValue(numChar);
-                tempResult += num;
+                sum += num;
             }
-            tempTransformed = String.valueOf(tempResult);
-            result = tempResult;
+            s = String.valueOf(sum);
+            result = sum;
         }
         return result;
     }
