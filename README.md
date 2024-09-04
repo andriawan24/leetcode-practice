@@ -37,5 +37,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0889-buddy-strings](https://github.com/andriawan24/leetcode-practice/tree/master/0889-buddy-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/andriawan24/leetcode-practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
+## Hash Table
+|  |
+| ------- |
+| [0889-buddy-strings](https://github.com/andriawan24/leetcode-practice/tree/master/0889-buddy-strings) |
 <!---LeetCode Topics End-->
