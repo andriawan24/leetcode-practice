@@ -1,0 +1,1 @@
+SELECT a.email FROM Person a GROUP BY email HAVING COUNT(a.email) > 1;
