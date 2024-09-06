@@ -1,10 +1,11 @@
 func containsDuplicate(nums []int) bool {
-    counts := make(map[int]int, len(nums))
-    for _, num := range nums {
-        counts[num]++
-        if counts[num] == 2 {
+    sort.Ints(nums)
+    next := 1
+    for i := range len(nums) - 1 {
+        if nums[i] == nums[next] {
             return true
         }
+        next++
     }
     return false
 }
