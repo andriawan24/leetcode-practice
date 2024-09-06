@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/andriawan24/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/andriawan24/leetcode-practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/andriawan24/leetcode-practice/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Matrix
@@ -43,9 +44,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/andriawan24/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0889-buddy-strings](https://github.com/andriawan24/leetcode-practice/tree/master/0889-buddy-strings) |
 ## Greedy
 |  |
 | ------- |
 | [2154-minimum-moves-to-convert-string](https://github.com/andriawan24/leetcode-practice/tree/master/2154-minimum-moves-to-convert-string) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/andriawan24/leetcode-practice/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
