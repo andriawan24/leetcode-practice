@@ -1,19 +1,19 @@
 func isAnagram(s string, t string) bool {
-    counts := make(map[rune]int)
+    m := make(map[rune]int)
 
     for _, v := range s {
-        counts[v]++
+        m[v]++
     }
 
     for _, v := range t {
-        counts[v]--
+        m[v]--
     }
 
-    for _, v := range counts {
-        if v > 0 {
+    for _, v := range m {
+        if v != 0 {
             return false
         }
     }
 
-    return len(s) == len(t)
+    return true
 }
