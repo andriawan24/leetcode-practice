@@ -1,15 +1,15 @@
 func isAnagram(s string, t string) bool {
-    m := make(map[rune]int)
+    chars := make([]int, 26)
 
     for _, v := range s {
-        m[v]++
+        chars[v - 'a']++;
     }
 
     for _, v := range t {
-        m[v]--
+        chars[v - 'a']--;
     }
 
-    for _, v := range m {
+    for _, v := range chars {
         if v != 0 {
             return false
         }
