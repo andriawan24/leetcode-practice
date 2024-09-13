@@ -2,12 +2,18 @@ class Solution {
 public:
     vector<int> xorQueries(vector<int>& arr, vector<vector<int>>& queries) {
         vector<int> result;
-        for (int i = 0; i < queries.size(); i++) {
-            int temp = 0;
-            for (int j = queries[i][0]; j <= queries[i][1]; j++) {
-                temp ^= arr[j];
+
+        // Precompute XOR
+        for (int i = 1; i < arr.size(); i++) {
+            arr[i] ^= arr[i - 1];
+        }
+
+        for (auto& query: queries) {
+            if (query[0] > 0) {
+                result.push_back(arr[query[0] - 1] ^ arr[query[1]]);
+            } else {
+                result.push_back(arr[query[1]]);
             }
-            result.push_back(temp);
         }
 
         return result;
