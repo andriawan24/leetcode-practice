@@ -4,10 +4,12 @@ public:
         // This is my second solution with help of ChatGPT to define how to think and apply the algorithm
         vector<bool> times(1440, false);
 
-        for (auto point: timePoints) {
-            int minute = calculateMinutes(point);
-            if (times[minute]) return 0; // Check if the time is duplicated
-            times[minute] = true;
+        for (string point: timePoints) {
+            int hours = stoi(point.substr(0, 2));
+            int minutes = stoi(point.substr(3, 2));
+            int total = (hours * 60) + minutes;
+            if (times[total]) return 0; // Check if the time is duplicated
+            times[total] = true;
         }
 
         int first = -1, prev = -1, minimum = INT_MAX, last = -1;
@@ -28,11 +30,5 @@ public:
         minimum = min(minimum, (1440 - last + first));
 
         return minimum;
-    }
-
-    int calculateMinutes(string time) {
-        int hours = stoi(time.substr(0, 2));
-        int minutes = stoi(time.substr(3, 2));
-        return (hours * 60) + minutes;
     }
 };
