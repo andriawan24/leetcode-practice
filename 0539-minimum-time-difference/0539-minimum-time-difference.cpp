@@ -1,22 +1,31 @@
 class Solution {
 public:
     int findMinDifference(vector<string>& timePoints) {
-        vector<int> minutes;
-        int minimum = INT_MAX;
+        // This is my second solution with help of ChatGPT to define how to think and apply the algorithm
+        vector<bool> times(1440, false);
 
         for (auto point: timePoints) {
-            minutes.push_back(calculateMinutes(point));
+            int minute = calculateMinutes(point);
+            if (times[minute]) return 0; // Check if the time is duplicated
+            times[minute] = true;
         }
 
-        sort(minutes.begin(), minutes.end());
+        int first = -1, prev = -1, minimum = INT_MAX, last = -1;
 
-        for (int i = 1; i < minutes.size(); i++) {
-            int temp = minutes[i] - minutes[i - 1];
-            minimum = min(minimum, temp);
+        for (int i = 0; i < 1440; i++) {
+            if (times[i]) {
+                if (first == -1) {
+                    first = i;
+                } else {
+                    minimum = min(minimum, i - prev);
+                }
+
+                prev = i;
+                last = i;
+            }
         }
 
-        int circular = (1440 - minutes.back() + minutes.front());
-        minimum = min(minimum, circular);
+        minimum = min(minimum, (1440 - last + first));
 
         return minimum;
     }
