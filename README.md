@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/andriawan24/leetcode-practice/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/andriawan24/leetcode-practice/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/andriawan24/leetcode-practice/tree/master/0202-happy-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/andriawan24/leetcode-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/andriawan24/leetcode-practice/tree/master/0539-minimum-time-difference) |
 ## Database
 |  |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/andriawan24/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/andriawan24/leetcode-practice/tree/master/0058-length-of-last-word) |
+| [0241-different-ways-to-add-parentheses](https://github.com/andriawan24/leetcode-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/andriawan24/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/andriawan24/leetcode-practice/tree/master/0539-minimum-time-difference) |
 | [0889-buddy-strings](https://github.com/andriawan24/leetcode-practice/tree/master/0889-buddy-strings) |
@@ -113,4 +115,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/andriawan24/leetcode-practice/tree/master/0202-happy-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/andriawan24/leetcode-practice/tree/master/0241-different-ways-to-add-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/andriawan24/leetcode-practice/tree/master/0241-different-ways-to-add-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/andriawan24/leetcode-practice/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
