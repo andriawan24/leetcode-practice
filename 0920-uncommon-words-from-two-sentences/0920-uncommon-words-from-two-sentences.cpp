@@ -1,25 +1,25 @@
 class Solution {
 public:
     vector<string> uncommonFromSentences(string s1, string s2) {
-        unordered_map<string, int> freqs;
-        vector<string> res;
-        stringstream ss1(s1);
-        stringstream ss2(s2);
+        unordered_map<string, int> count;
+        stringstream ss1(s1), ss2(s2);
         string temp;
+
         while (ss1 >> temp) {
-            freqs[temp]++;
+            count[temp]++;
         }
 
         while (ss2 >> temp) {
-            freqs[temp]++;
+            count[temp]++;
         }
 
-        for (auto words: freqs) {
+        vector<string> result;
+        for (auto words: count) {
             if (words.second == 1) {
-                res.push_back(words.first);
+                result.push_back(words.first);
             }
         }
 
-        return res;
+        return result;
     }
 };
