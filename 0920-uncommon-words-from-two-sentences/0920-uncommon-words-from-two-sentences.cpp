@@ -2,14 +2,10 @@ class Solution {
 public:
     vector<string> uncommonFromSentences(string s1, string s2) {
         unordered_map<string, int> count;
-        stringstream ss1(s1), ss2(s2);
+        stringstream ss(s1 + ' ' + s2);
         string temp;
 
-        while (ss1 >> temp) {
-            count[temp]++;
-        }
-
-        while (ss2 >> temp) {
+        while (ss >> temp) {
             count[temp]++;
         }
 
