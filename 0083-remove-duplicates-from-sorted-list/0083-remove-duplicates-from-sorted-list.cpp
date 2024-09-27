@@ -17,7 +17,7 @@ public:
         ListNode* cur = head;
         ListNode* prev = nullptr;
 
-        while (cur != nullptr) {
+        while (cur) {
             count[cur->val]++;
             if (count[cur->val] > 1) {
                 prev->next = cur->next;
