@@ -11,23 +11,17 @@
 class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
-        if (!head) return nullptr;
-
-        unordered_map<int, int> count;
+        // Try to improve space
+        // As the list is ordered, we can use this approach
         ListNode* cur = head;
-        ListNode* prev = nullptr;
-
         while (cur) {
-            count[cur->val]++;
-            if (count[cur->val] > 1) {
-                prev->next = cur->next;
-                delete cur;
-            } else {
-                prev = cur;
+            ListNode* temp = cur->next;
+            while (temp && temp->val == cur->val) {
+                temp = temp->next;
             }
-            cur = prev->next;
+            cur->next = temp;
+            cur = temp;
         }
-
         return head;
     }
 };
