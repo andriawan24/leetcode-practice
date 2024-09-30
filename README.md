@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/andriawan24/leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/andriawan24/leetcode-practice/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/andriawan24/leetcode-practice/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/andriawan24/leetcode-practice/tree/master/0202-happy-number) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/andriawan24/leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/andriawan24/leetcode-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/andriawan24/leetcode-practice/tree/master/0326-power-of-three) |
 ## Memoization
@@ -136,5 +138,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/andriawan24/leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/andriawan24/leetcode-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
