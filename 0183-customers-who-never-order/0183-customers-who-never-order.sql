@@ -1,0 +1,1 @@
+SELECT c.name as Customers FROM Customers c WHERE !EXISTS (SELECT id FROM Orders o WHERE o.customerId = c.id);
