@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0241-different-ways-to-add-parentheses](https://github.com/andriawan24/leetcode-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/andriawan24/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/andriawan24/leetcode-practice/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/andriawan24/leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0889-buddy-strings](https://github.com/andriawan24/leetcode-practice/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/andriawan24/leetcode-practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/andriawan24/leetcode-practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/andriawan24/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/andriawan24/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/andriawan24/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
+| [0567-permutation-in-string](https://github.com/andriawan24/leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0889-buddy-strings](https://github.com/andriawan24/leetcode-practice/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/andriawan24/leetcode-practice/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Greedy
@@ -88,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/andriawan24/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/andriawan24/leetcode-practice/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -123,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/andriawan24/leetcode-practice/tree/master/0202-happy-number) |
+| [0567-permutation-in-string](https://github.com/andriawan24/leetcode-practice/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
