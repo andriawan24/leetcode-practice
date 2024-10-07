@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/andriawan24/leetcode-practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/andriawan24/leetcode-practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/andriawan24/leetcode-practice/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/andriawan24/leetcode-practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0920-uncommon-words-from-two-sentences](https://github.com/andriawan24/leetcode-practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/andriawan24/leetcode-practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2154-minimum-moves-to-convert-string](https://github.com/andriawan24/leetcode-practice/tree/master/2154-minimum-moves-to-convert-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/andriawan24/leetcode-practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/andriawan24/leetcode-practice/tree/master/0020-valid-parentheses) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/andriawan24/leetcode-practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Two Pointers
 |  |
 | ------- |
