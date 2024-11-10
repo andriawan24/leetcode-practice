@@ -8,7 +8,6 @@ class Solution {
         boolean isConsonant = false;
 
         for (char letter: word.toCharArray()) {
-            if (Character.isDigit(letter)) continue;
             if (Character.isLetter(letter)) {
                 char lower = Character.toLowerCase(letter);
                 if ("aiueo".indexOf(lower) != -1) {
@@ -16,7 +15,7 @@ class Solution {
                 } else {
                     isConsonant = true;
                 }
-            } else {
+            } else if (!Character.isDigit(letter)) {
                 return false;
             }
         }
