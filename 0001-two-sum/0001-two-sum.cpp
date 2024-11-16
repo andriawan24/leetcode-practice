@@ -1,14 +1,16 @@
 class Solution {
 public:
-    vector<int> twoSum(vector<int>& nums, int target) {
-        map<int, int> diff_table;
+    vector<int> twoSum(vector<int> nums, int target)  {
         for (int i = 0; i < nums.size(); i++) {
-            int diff = target - nums[i];
-            if (diff_table.find(diff) != diff_table.end()) {
-                return {i, diff_table[diff]};
+            for (int j = i; j < nums.size(); j++) {
+                if (i != j) {
+                    if (nums[i] + nums[j] == target) {
+                        return {i, j};
+                    }
+                }
             }
-            diff_table[nums[i]] = i;
         }
-        return {};
+
+        return {-1};
     }
 };
