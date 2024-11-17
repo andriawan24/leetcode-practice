@@ -1,26 +1,41 @@
 class Solution {
     public int romanToInt(String s) {
-        Map<Character, Integer> romans = new HashMap<Character, Integer>();
-        romans.put('I', 1);
-        romans.put('V', 5);
-        romans.put('X', 10);
-        romans.put('L', 50);
-        romans.put('C', 100);
-        romans.put('D', 500);
-        romans.put('M', 1000);
+        int sum = 0;
+        char prevChar = ' ';
 
-        char lastChar = s.charAt(0);
-        int result = romans.get(lastChar);
-
-        for (int i = 1; i < s.length(); i++) {
-            if (romans.get(s.charAt(i)) <= romans.get(lastChar)) {
-                result += romans.get(s.charAt(i));
-            } else {
-                result += romans.get(s.charAt(i)) - (romans.get(lastChar) * 2);
+        for (int i = 0; i < s.length(); i++) {
+            switch (s.charAt(i)) {
+                case 'I':
+                    sum += 1;
+                    break;
+                case 'V':
+                    if (prevChar == 'I') sum -= 2;
+                    sum += 5;
+                    break;
+                case 'X':
+                    if (prevChar == 'I') sum -= 2;
+                    sum += 10;
+                    break;
+                case 'L':
+                    if (prevChar == 'X') sum -= 20;
+                    sum += 50;
+                    break;
+                case 'C':
+                    if (prevChar == 'X') sum -= 20;
+                    sum += 100;
+                    break;
+                case 'D':
+                    if (prevChar == 'C') sum -= 200;
+                    sum += 500;
+                    break;
+                case 'M':
+                    if (prevChar == 'C') sum -= 200;
+                    sum += 1000;
+                    break;
             }
-            lastChar = s.charAt(i);
+            prevChar = s.charAt(i);
         }
 
-        return result;
+        return sum;
     }
 }
