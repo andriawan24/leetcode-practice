@@ -11,7 +11,6 @@ class Solution {
 
         char lastChar = s.charAt(0);
         int result = romans.get(lastChar);
-        System.out.println("Char " + lastChar + " " + result);
 
         for (int i = 1; i < s.length(); i++) {
             if (romans.get(s.charAt(i)) <= romans.get(lastChar)) {
