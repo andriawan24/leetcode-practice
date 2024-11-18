@@ -3,22 +3,27 @@ class Solution {
         int n = code.length;
         int[] result = new int[n];
 
-        for (int i = 0; i < n; i++) {
-            if (k == 0) {
-                result[i] = 0;
-                continue;
-            }
+        if (k == 0) return result;
 
-            int start = (k > 0) ? i + 1 % n : i + n + k;
-            System.out.println("Start index: " + start);
-            System.out.println();
-            int temp = 0;
-            for (int j = start; j < start + Math.abs(k); j++) {
-                System.out.println("Current index: " + j % n);
-                temp += code[j % n];
-            }
-            System.out.println();
-            result[i] = temp;
+        int start = 1;
+        int end = k;
+        int sum = 0;
+
+        if (k < 0) {
+            start = n - Math.abs(k);
+            end = n - 1;
+        }
+
+        for (int i = start; i <= end; i++) {
+            sum += code[i];
+        }
+
+        for (int i = 0; i < n; i++) {
+            result[i] = sum;
+            sum -= code[start % n];
+            sum += code[(end + 1) % n];
+            start++;
+            end++;
         }
 
         return result;
