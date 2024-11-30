@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/andriawan24/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/andriawan24/leetcode-practice/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/andriawan24/leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/andriawan24/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/andriawan24/leetcode-practice/tree/master/0058-length-of-last-word) |
 | [0241-different-ways-to-add-parentheses](https://github.com/andriawan24/leetcode-practice/tree/master/0241-different-ways-to-add-parentheses) |
@@ -179,4 +180,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/andriawan24/leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/andriawan24/leetcode-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/andriawan24/leetcode-practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
