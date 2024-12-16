@@ -13,8 +13,6 @@ class Solution {
             k--;
         }
 
-        System.gc();
-
         return nums;
     }
 }
