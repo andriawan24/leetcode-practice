@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0595-big-countries](https://github.com/andriawan24/leetcode-practice/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/andriawan24/leetcode-practice/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/andriawan24/leetcode-practice/tree/master/0627-swap-salary) |
+| [1908-recyclable-and-low-fat-products](https://github.com/andriawan24/leetcode-practice/tree/master/1908-recyclable-and-low-fat-products) |
 ## Array
 |  |
 | ------- |
