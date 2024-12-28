@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0500-keyboard-row](https://github.com/andriawan24/leetcode-practice/tree/master/0500-keyboard-row) |
 | [0539-minimum-time-difference](https://github.com/andriawan24/leetcode-practice/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/andriawan24/leetcode-practice/tree/master/0567-permutation-in-string) |
+| [0782-jewels-and-stones](https://github.com/andriawan24/leetcode-practice/tree/master/0782-jewels-and-stones) |
 | [0889-buddy-strings](https://github.com/andriawan24/leetcode-practice/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/andriawan24/leetcode-practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/andriawan24/leetcode-practice/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/andriawan24/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0500-keyboard-row](https://github.com/andriawan24/leetcode-practice/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/andriawan24/leetcode-practice/tree/master/0567-permutation-in-string) |
+| [0782-jewels-and-stones](https://github.com/andriawan24/leetcode-practice/tree/master/0782-jewels-and-stones) |
 | [0889-buddy-strings](https://github.com/andriawan24/leetcode-practice/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/andriawan24/leetcode-practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/andriawan24/leetcode-practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
