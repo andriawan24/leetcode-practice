@@ -1,15 +1,11 @@
 class Solution {
     public String replaceDigits(String s) {
-        StringBuilder result = new StringBuilder(s);
+        char[] words = s.toCharArray();
 
-        for (int i = 0; i < s.length(); i++) {
-            if (i % 2 != 0) {
-                result.setCharAt(i, (char) (((int) s.charAt(i-1)) + (s.charAt(i) - '0')));
-            } else {
-                result.setCharAt(i, s.charAt(i));
-            }
+        for (int i = 1; i < s.length(); i += 2) {
+            words[i] = (char) ((int) words[i - 1] + words[i] - '0');
         }
 
-        return result.toString();
+        return new String(words);
     }
 }
