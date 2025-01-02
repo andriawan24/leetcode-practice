@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0920-uncommon-words-from-two-sentences](https://github.com/andriawan24/leetcode-practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/andriawan24/leetcode-practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/andriawan24/leetcode-practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1954-replace-all-digits-with-characters](https://github.com/andriawan24/leetcode-practice/tree/master/1954-replace-all-digits-with-characters) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/andriawan24/leetcode-practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2128-reverse-prefix-of-word](https://github.com/andriawan24/leetcode-practice/tree/master/2128-reverse-prefix-of-word) |
 | [2154-minimum-moves-to-convert-string](https://github.com/andriawan24/leetcode-practice/tree/master/2154-minimum-moves-to-convert-string) |
