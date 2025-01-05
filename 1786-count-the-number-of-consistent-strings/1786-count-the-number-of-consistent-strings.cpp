@@ -5,11 +5,15 @@ public:
         cin.tie(0);
 
         int count = 0;
+        bitset<26> validated;
 
-        for (int i = 0; i < words.size(); i++) {
+        for (auto letter : allowed) 
+            validated[letter - 'a'] = 1;
+
+        for (auto word: words) {
             bool isConsistent = true;
-            for (char word: words[i]) {
-                if (allowed.find(word) == string::npos) {
+            for (auto x: word) {
+                if (!validated[x - 'a']) {
                     isConsistent = false;
                     break;
                 }
