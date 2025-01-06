@@ -7,6 +7,7 @@ class ParkingSystem {
         _big = big;
         _medium = medium;
         _small = small;
+        System.gc();
     }
     
     public boolean addCar(int carType) {
