@@ -1,1 +1,1 @@
-SELECT f.user_id, COUNT(f.follower_id) as followers_count FROM followers f GROUP BY f.user_id ORDER BY f.user_id;
+SELECT user_id, COUNT(follower_id) as followers_count FROM followers GROUP BY 1 ORDER BY 1;
