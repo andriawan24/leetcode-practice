@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/andriawan24/leetcode-practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/andriawan24/leetcode-practice/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2159-two-out-of-three](https://github.com/andriawan24/leetcode-practice/tree/master/2159-two-out-of-three) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/andriawan24/leetcode-practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/andriawan24/leetcode-practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/andriawan24/leetcode-practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/andriawan24/leetcode-practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2128-reverse-prefix-of-word](https://github.com/andriawan24/leetcode-practice/tree/master/2128-reverse-prefix-of-word) |
 | [2154-minimum-moves-to-convert-string](https://github.com/andriawan24/leetcode-practice/tree/master/2154-minimum-moves-to-convert-string) |
 | [2235-capitalize-the-title](https://github.com/andriawan24/leetcode-practice/tree/master/2235-capitalize-the-title) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/andriawan24/leetcode-practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/andriawan24/leetcode-practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/andriawan24/leetcode-practice/tree/master/3195-separate-black-and-white-balls) |
 | [3396-valid-word](https://github.com/andriawan24/leetcode-practice/tree/master/3396-valid-word) |
@@ -223,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/andriawan24/leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/andriawan24/leetcode-practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/andriawan24/leetcode-practice/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Design
 |  |
 | ------- |
