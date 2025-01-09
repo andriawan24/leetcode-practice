@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 class Solution {
     public double minimumAverage(int[] nums) {
         Arrays.sort(nums);
