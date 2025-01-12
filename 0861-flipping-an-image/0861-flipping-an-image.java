@@ -7,9 +7,7 @@ class Solution {
                 start++;
                 end--;
             }
-        }
 
-        for (int[] images: image) {
             for (int i = 0; i < images.length; i++) {
                 images[i] = images[i] == 0 ? 1 : 0;
             }
