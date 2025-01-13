@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/andriawan24/leetcode-practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2128-reverse-prefix-of-word](https://github.com/andriawan24/leetcode-practice/tree/master/2128-reverse-prefix-of-word) |
 | [2154-minimum-moves-to-convert-string](https://github.com/andriawan24/leetcode-practice/tree/master/2154-minimum-moves-to-convert-string) |
+| [2173-number-of-valid-words-in-a-sentence](https://github.com/andriawan24/leetcode-practice/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2235-capitalize-the-title](https://github.com/andriawan24/leetcode-practice/tree/master/2235-capitalize-the-title) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/andriawan24/leetcode-practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/andriawan24/leetcode-practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
