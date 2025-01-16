@@ -1,23 +1,18 @@
 class Solution {
 public:
     int specialArray(vector<int>& nums) {
-        int x = nums.size();
+        // Optimized solution
+        int n = nums.size();
+        sort(nums.begin(), nums.end());
 
-        while (x >= 0) {
-            int count = 0;
-            for (int num: nums) {
-                if (num >= x) {
-                    count++;
-                }
-            }
-
+        for (int x = 0; x <= n; x++) {
+            auto it = lower_bound(nums.begin(), nums.end(), x);
+            int count = nums.end() - it;
             if (count == x) {
                 return x;
             }
-
-            x--;
         }
 
-        return x;
+        return -1;
     }
 };
