@@ -1,18 +1,36 @@
 class Solution {
 public:
     vector<int> minOperations(string boxes) {
-        vector<int> operations;
+        // Optimized solution from the solutions tab
+        vector<int> res;
 
-        for (int i = 0; i < boxes.size(); i++) {
-            int operation = 0;
-            for (int j = 0; j < boxes.size(); j++) {
-                if (i != j && boxes[j] == '1') {
-                    operation += abs(j - i);
-                }
+        int n = boxes.length();
+        vector<int> distances(n, 0);
+
+        int prefCount = 0, prefSum = 0;
+
+        for (int i = 0; i < n; i++) {
+            distances[i] = prefCount * i - prefSum;
+            if (boxes[i] == '1') {
+                prefCount++;
+                prefSum += i;
             }
-            operations.push_back(operation);
         }
 
-        return operations;
+        int suffCount = 0, suffSum = 0;
+
+        for (int i = n - 1; i >= 0; i--) {
+            distances[i] += suffSum - suffCount * i;
+            if (boxes[i] == '1') {
+                suffCount++;
+                suffSum += i;
+            }
+        }
+
+        for (int dist: distances) {
+            res.push_back(dist);
+        }
+
+        return res;
     }
 };
