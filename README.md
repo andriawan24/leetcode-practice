@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/andriawan24/leetcode-practice/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/andriawan24/leetcode-practice/tree/master/0326-power-of-three) |
 | [0539-minimum-time-difference](https://github.com/andriawan24/leetcode-practice/tree/master/0539-minimum-time-difference) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/andriawan24/leetcode-practice/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/andriawan24/leetcode-practice/tree/master/1635-number-of-good-pairs) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/andriawan24/leetcode-practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Database
