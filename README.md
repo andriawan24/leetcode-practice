@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/andriawan24/leetcode-practice/tree/master/0035-search-insert-position) |
+| [0374-guess-number-higher-or-lower](https://github.com/andriawan24/leetcode-practice/tree/master/0374-guess-number-higher-or-lower) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/andriawan24/leetcode-practice/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/andriawan24/leetcode-practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Prefix Sum
@@ -255,4 +256,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1708-design-parking-system](https://github.com/andriawan24/leetcode-practice/tree/master/1708-design-parking-system) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/andriawan24/leetcode-practice/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
