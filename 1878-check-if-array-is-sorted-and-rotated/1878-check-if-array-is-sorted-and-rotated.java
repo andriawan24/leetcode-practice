@@ -1,18 +1,17 @@
 class Solution {
     public boolean check(int[] nums) {
-        for (int i = 0; i < nums.length; i++) {
-            boolean isValid = true;
-            for (int j = i; j < nums.length + i - 1; j++) {
-                int currentIdx = j % nums.length;
-                int nextIdx = (j + 1) % nums.length;
+        int count = 0;
 
-                if (nums[currentIdx] > nums[nextIdx]) {
-                    isValid = false;
-                }
+        for (int i = 1; i < nums.length; i++) {
+            if (nums[i] < nums[i - 1]) {
+                count++;
             }
-            if (isValid) return true;
         }
 
-        return false;
-    }
+        if (nums[nums.length - 1] > nums[0]) {
+            count++;
+        }
+
+        return count <= 1;
+    } 
 }
