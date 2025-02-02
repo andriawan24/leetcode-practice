@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/andriawan24/leetcode-practice/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1755-defuse-the-bomb](https://github.com/andriawan24/leetcode-practice/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/andriawan24/leetcode-practice/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/andriawan24/leetcode-practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/andriawan24/leetcode-practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/andriawan24/leetcode-practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/andriawan24/leetcode-practice/tree/master/2132-convert-1d-array-into-2d-array) |
