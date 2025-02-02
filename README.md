@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0241-different-ways-to-add-parentheses](https://github.com/andriawan24/leetcode-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/andriawan24/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/andriawan24/leetcode-practice/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/andriawan24/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/andriawan24/leetcode-practice/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/andriawan24/leetcode-practice/tree/master/0500-keyboard-row) |
 | [0539-minimum-time-difference](https://github.com/andriawan24/leetcode-practice/tree/master/0539-minimum-time-difference) |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/andriawan24/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/andriawan24/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/andriawan24/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/andriawan24/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/andriawan24/leetcode-practice/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/andriawan24/leetcode-practice/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/andriawan24/leetcode-practice/tree/master/0567-permutation-in-string) |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/andriawan24/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/andriawan24/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/andriawan24/leetcode-practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1635-number-of-good-pairs](https://github.com/andriawan24/leetcode-practice/tree/master/1635-number-of-good-pairs) |
 | [1708-design-parking-system](https://github.com/andriawan24/leetcode-practice/tree/master/1708-design-parking-system) |
@@ -261,4 +264,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/andriawan24/leetcode-practice/tree/master/0374-guess-number-higher-or-lower) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/andriawan24/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
