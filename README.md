@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/andriawan24/leetcode-practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/andriawan24/leetcode-practice/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/andriawan24/leetcode-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/andriawan24/leetcode-practice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2159-two-out-of-three](https://github.com/andriawan24/leetcode-practice/tree/master/2159-two-out-of-three) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/andriawan24/leetcode-practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/andriawan24/leetcode-practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/andriawan24/leetcode-practice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2154-minimum-moves-to-convert-string](https://github.com/andriawan24/leetcode-practice/tree/master/2154-minimum-moves-to-convert-string) |
 | [3195-separate-black-and-white-balls](https://github.com/andriawan24/leetcode-practice/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
@@ -163,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/andriawan24/leetcode-practice/tree/master/0389-find-the-difference) |
 | [0539-minimum-time-difference](https://github.com/andriawan24/leetcode-practice/tree/master/0539-minimum-time-difference) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/andriawan24/leetcode-practice/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/andriawan24/leetcode-practice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/andriawan24/leetcode-practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sliding Window
 |  |
@@ -268,4 +271,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/andriawan24/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/andriawan24/leetcode-practice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
