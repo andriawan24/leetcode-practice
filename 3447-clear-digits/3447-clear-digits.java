@@ -1,15 +1,16 @@
 class Solution {
     public String clearDigits(String s) {
-        int i = 0;
-        while (s.matches(".*\\d.*")) {
+        // Easy way
+        StringBuilder build = new StringBuilder();
+
+        for (int i = 0; i < s.length(); i++) {
             if (Character.isDigit(s.charAt(i))) {
-                s = s.substring(0, i - 1) + s.substring(i + 1);
-                i = 0;
+                build.deleteCharAt(build.length() - 1);
             } else {
-                i++;
+                build.append(s.charAt(i));
             }
         }
 
-        return s;
+        return build.toString();
     }
 }
