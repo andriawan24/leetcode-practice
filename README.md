@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/andriawan24/leetcode-practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/andriawan24/leetcode-practice/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/andriawan24/leetcode-practice/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3429-special-array-i](https://github.com/andriawan24/leetcode-practice/tree/master/3429-special-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/andriawan24/leetcode-practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/andriawan24/leetcode-practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
