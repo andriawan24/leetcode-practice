@@ -1,12 +1,14 @@
 func repeatedCharacter(s string) byte {
-    table := make(map[rune]int)
+    table := make(map[byte]int)
+    var char byte
     
     for _, char := range s {
-        table[char] += 1
-        if (table[char] == 2) {
+        _, val := table[byte(char)]
+        if val {
             return byte(char)
         }
+        table[byte(char)] += 1
     }
     
-    return byte('a')
+    return char
 }
