@@ -1,12 +1,10 @@
 func countKDifference(nums []int, k int) int {
-    var ans = 0
+    ans := 0
+    mmap := make(map[int]int)
 
-    for i := 0; i < len(nums); i++ {
-        for j := i + 1; j < len(nums); j++ {
-            if math.Abs(float64(nums[i]) - float64(nums[j])) == float64(k) {
-                ans++
-            }
-        }
+    for _, num := range nums {
+        mmap[num]++
+        ans += mmap[num + k] + mmap[num - k]
     }
 
     return ans
