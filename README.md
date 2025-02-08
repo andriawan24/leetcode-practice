@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/andriawan24/leetcode-practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/andriawan24/leetcode-practice/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/andriawan24/leetcode-practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/andriawan24/leetcode-practice/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/andriawan24/leetcode-practice/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/andriawan24/leetcode-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/andriawan24/leetcode-practice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0920-uncommon-words-from-two-sentences](https://github.com/andriawan24/leetcode-practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1635-number-of-good-pairs](https://github.com/andriawan24/leetcode-practice/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/andriawan24/leetcode-practice/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/andriawan24/leetcode-practice/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2159-two-out-of-three](https://github.com/andriawan24/leetcode-practice/tree/master/2159-two-out-of-three) |
 | [2427-first-letter-to-appear-twice](https://github.com/andriawan24/leetcode-practice/tree/master/2427-first-letter-to-appear-twice) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/andriawan24/leetcode-practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1635-number-of-good-pairs](https://github.com/andriawan24/leetcode-practice/tree/master/1635-number-of-good-pairs) |
 | [1708-design-parking-system](https://github.com/andriawan24/leetcode-practice/tree/master/1708-design-parking-system) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/andriawan24/leetcode-practice/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/andriawan24/leetcode-practice/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2427-first-letter-to-appear-twice](https://github.com/andriawan24/leetcode-practice/tree/master/2427-first-letter-to-appear-twice) |
 ## Quickselect
 |  |
