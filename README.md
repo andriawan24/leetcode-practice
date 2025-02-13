@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/andriawan24/leetcode-practice/tree/master/0539-minimum-time-difference) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/andriawan24/leetcode-practice/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/andriawan24/leetcode-practice/tree/master/1635-number-of-good-pairs) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/andriawan24/leetcode-practice/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/andriawan24/leetcode-practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Database
 |  |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/andriawan24/leetcode-practice/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/andriawan24/leetcode-practice/tree/master/3429-special-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/andriawan24/leetcode-practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/andriawan24/leetcode-practice/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/andriawan24/leetcode-practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
