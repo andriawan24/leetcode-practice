@@ -4,13 +4,13 @@ public:
         map<char, char> table;
         string decoded;
 
-        for (auto ch: key) {
+        for (auto& ch: key) {
             if (ch != ' ' && !table[ch]) {
                 table[ch] = char('a' + table.size() - 1);
             }
         }
 
-        for (auto ch: message) {
+        for (auto& ch: message) {
             if (ch == ' ') {
                 decoded += ch;
             } else {
