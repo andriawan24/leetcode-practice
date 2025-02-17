@@ -1,14 +1,12 @@
 class Solution {
 public:
     vector<int> decompressRLElist(vector<int>& nums) {
-        vector<int> result;
+        vector<int> res;
 
-        for (int i = 0; i < nums.size(); i++) {
-            if (i % 2 == 0) {
-                result.insert(result.end(), nums[i], nums[i + 1]);
-            }
+        for (int i = 0; i < nums.size(); i += 2) {
+            res.insert(res.end(), nums[i], nums[i + 1]);
         }
 
-        return result;
+        return res;
     }
 };
