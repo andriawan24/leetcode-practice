@@ -5,9 +5,7 @@ public:
 
         for (int i = 0; i < nums.size(); i++) {
             if (i % 2 == 0) {
-                for (int j = 0; j < nums[i]; j++) {
-                    result.push_back(nums[i + 1]);
-                }
+                result.insert(result.end(), nums[i], nums[i + 1]);
             }
         }
 
