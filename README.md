@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/andriawan24/leetcode-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2154-minimum-moves-to-convert-string](https://github.com/andriawan24/leetcode-practice/tree/master/2154-minimum-moves-to-convert-string) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/andriawan24/leetcode-practice/tree/master/2173-number-of-valid-words-in-a-sentence) |
+| [2226-rings-and-rods](https://github.com/andriawan24/leetcode-practice/tree/master/2226-rings-and-rods) |
 | [2235-capitalize-the-title](https://github.com/andriawan24/leetcode-practice/tree/master/2235-capitalize-the-title) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/andriawan24/leetcode-practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2406-decode-the-message](https://github.com/andriawan24/leetcode-practice/tree/master/2406-decode-the-message) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/andriawan24/leetcode-practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/andriawan24/leetcode-practice/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2159-two-out-of-three](https://github.com/andriawan24/leetcode-practice/tree/master/2159-two-out-of-three) |
+| [2226-rings-and-rods](https://github.com/andriawan24/leetcode-practice/tree/master/2226-rings-and-rods) |
 | [2406-decode-the-message](https://github.com/andriawan24/leetcode-practice/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/andriawan24/leetcode-practice/tree/master/2427-first-letter-to-appear-twice) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/andriawan24/leetcode-practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
