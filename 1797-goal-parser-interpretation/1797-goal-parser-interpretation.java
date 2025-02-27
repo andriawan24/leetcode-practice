@@ -1,25 +1,22 @@
 class Solution {
     public String interpret(String command) {
-        String result = "";
+        StringBuilder result = new StringBuilder(command.length());
 
         for (int i = 0; i < command.length(); i++) {
             if (command.charAt(i) == 'G') {
-                result += command.charAt(i);
+                result.append(command.charAt(i));
                 continue;
             }
 
-            switch(command.charAt(i + 1)) {
-                case ')':
-                    result += 'o';
-                    i++;
-                    break;
-                case 'a':
-                    result += "al";
-                    i+=3;
-                    break;
+            if (command.charAt(i + 1) == ')') {
+                result.append('o');
+                i++;
+            } else if (command.charAt(i + 1) == 'a') {
+                result.append("al");
+                i+=3;
             }
         }
 
-        return result;
+        return result.toString();
     }
 }
