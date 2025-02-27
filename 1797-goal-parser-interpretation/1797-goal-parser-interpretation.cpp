@@ -4,7 +4,8 @@ public:
         string result = "";
         
         int i = 0;
-        while (i < command.size()) {
+        int n = command.size();
+        while (i < n) {
             if (command[i] == 'G') {
                 result += "G";
                 i++;
