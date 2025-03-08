@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2292-counting-words-with-a-given-prefix](https://github.com/andriawan24/leetcode-practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2406-decode-the-message](https://github.com/andriawan24/leetcode-practice/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/andriawan24/leetcode-practice/tree/master/2427-first-letter-to-appear-twice) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/andriawan24/leetcode-practice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/andriawan24/leetcode-practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/andriawan24/leetcode-practice/tree/master/3195-separate-black-and-white-balls) |
 | [3396-valid-word](https://github.com/andriawan24/leetcode-practice/tree/master/3396-valid-word) |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/andriawan24/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/andriawan24/leetcode-practice/tree/master/0567-permutation-in-string) |
 | [1755-defuse-the-bomb](https://github.com/andriawan24/leetcode-practice/tree/master/1755-defuse-the-bomb) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/andriawan24/leetcode-practice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/andriawan24/leetcode-practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
