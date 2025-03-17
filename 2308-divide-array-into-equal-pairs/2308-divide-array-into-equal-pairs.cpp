@@ -1,14 +1,10 @@
 class Solution {
 public:
     bool divideArray(vector<int>& nums) {
-        map<int, int> table;
+        sort(nums.begin(), nums.end());
 
-        for (auto const &num: nums) {
-            table[num]++;
-        }
-
-        for (auto const &value: table) {
-            if (value.second % 2 != 0) return false;
+        for (int i = 0; i < nums.size(); i += 2) {
+            if (nums[i] != nums[i + 1]) return false;
         }
 
         return true;
