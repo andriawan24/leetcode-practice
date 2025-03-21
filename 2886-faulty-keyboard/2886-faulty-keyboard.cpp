@@ -5,14 +5,7 @@ public:
 
         for (int i = 0; i < s.size(); i++) {
             if (s[i] == 'i') {
-                int left = 0, right = result.size() - 1;
-                while (left <= right) {
-                    char temp = result[left];
-                    result[left] = result[right];
-                    result[right] = temp;
-                    left++;
-                    right--;
-                }
+                reverse(result.begin(), result.end());
             } else {
                 result += s[i];
             }
