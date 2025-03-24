@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2886-faulty-keyboard](https://github.com/andriawan24/leetcode-practice/tree/master/2886-faulty-keyboard) |
 | [3195-separate-black-and-white-balls](https://github.com/andriawan24/leetcode-practice/tree/master/3195-separate-black-and-white-balls) |
 | [3396-valid-word](https://github.com/andriawan24/leetcode-practice/tree/master/3396-valid-word) |
+| [3412-permutation-difference-between-two-strings](https://github.com/andriawan24/leetcode-practice/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/andriawan24/leetcode-practice/tree/master/3447-clear-digits) |
 ## Hash Table
 |  |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2427-first-letter-to-appear-twice](https://github.com/andriawan24/leetcode-practice/tree/master/2427-first-letter-to-appear-twice) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/andriawan24/leetcode-practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/andriawan24/leetcode-practice/tree/master/3227-find-missing-and-repeated-values) |
+| [3412-permutation-difference-between-two-strings](https://github.com/andriawan24/leetcode-practice/tree/master/3412-permutation-difference-between-two-strings) |
 ## Greedy
 |  |
 | ------- |
