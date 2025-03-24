@@ -1,7 +1,7 @@
 class Solution {
 public:
     int findPermutationDifference(string s, string t) {
-        unordered_map<char, int> table;
+        map<char, int> table;
         int result = 0;
 
         for (int i = 0; i < s.size(); i++) {
