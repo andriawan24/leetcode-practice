@@ -1,19 +1,15 @@
 class Solution {
     public String[] sortPeople(String[] names, int[] heights) {
+        HashMap<Integer, String> table = new HashMap<>();
         for (int i = 0; i < heights.length; i++) {
-            int biggest = heights[i];
-            for (int j = i + 1; j < heights.length; j++) {
-                if (heights[j] > biggest) {
-                    biggest = heights[j];
-                    String temp = names[i];
-                    names[i] = names[j];
-                    names[j] = temp;
+            table.put(heights[i], names[i]);
+        }
+        Arrays.sort(heights);
 
-                    int tempHeight = heights[i];
-                    heights[i] = heights[j];
-                    heights[j] = tempHeight;
-                }
-            }
+        int index = 0;
+        for (int i = heights.length - 1; i >= 0; i--) {
+            names[index] = table.get(heights[i]);
+            index++;
         }
 
         return names;
