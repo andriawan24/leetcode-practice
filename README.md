@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/andriawan24/leetcode-practice/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/andriawan24/leetcode-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/andriawan24/leetcode-practice/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/andriawan24/leetcode-practice/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/andriawan24/leetcode-practice/tree/master/0326-power-of-three) |
 | [0539-minimum-time-difference](https://github.com/andriawan24/leetcode-practice/tree/master/0539-minimum-time-difference) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/andriawan24/leetcode-practice/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/andriawan24/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/andriawan24/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/andriawan24/leetcode-practice/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/andriawan24/leetcode-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/andriawan24/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/andriawan24/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0500-keyboard-row](https://github.com/andriawan24/leetcode-practice/tree/master/0500-keyboard-row) |
@@ -106,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/andriawan24/leetcode-practice/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/andriawan24/leetcode-practice/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/andriawan24/leetcode-practice/tree/master/0374-guess-number-higher-or-lower) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/andriawan24/leetcode-practice/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/andriawan24/leetcode-practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -169,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/andriawan24/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/andriawan24/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/andriawan24/leetcode-practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/andriawan24/leetcode-practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/andriawan24/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/andriawan24/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/andriawan24/leetcode-practice/tree/master/0389-find-the-difference) |
@@ -201,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0217-contains-duplicate](https://github.com/andriawan24/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/andriawan24/leetcode-practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/andriawan24/leetcode-practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/andriawan24/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/andriawan24/leetcode-practice/tree/master/0389-find-the-difference) |
 | [0539-minimum-time-difference](https://github.com/andriawan24/leetcode-practice/tree/master/0539-minimum-time-difference) |
@@ -226,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/andriawan24/leetcode-practice/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/andriawan24/leetcode-practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/andriawan24/leetcode-practice/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/andriawan24/leetcode-practice/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/andriawan24/leetcode-practice/tree/master/0861-flipping-an-image) |
