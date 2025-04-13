@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0577-employee-bonus](https://github.com/andriawan24/leetcode-practice/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/andriawan24/leetcode-practice/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/andriawan24/leetcode-practice/tree/master/0595-big-countries) |
+| [0619-biggest-single-number](https://github.com/andriawan24/leetcode-practice/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/andriawan24/leetcode-practice/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/andriawan24/leetcode-practice/tree/master/0627-swap-salary) |
 | [1877-find-followers-count](https://github.com/andriawan24/leetcode-practice/tree/master/1877-find-followers-count) |
