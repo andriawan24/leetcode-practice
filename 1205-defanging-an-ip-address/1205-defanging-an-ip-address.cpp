@@ -3,7 +3,7 @@ public:
     string defangIPaddr(string address) {
         string res;
 
-        for (const auto &u: address) {
+        for (auto u: address) {
             if (u == '.') {
                 res += "[.]";
             } else {
