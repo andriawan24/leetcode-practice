@@ -3,15 +3,11 @@ public:
     vector<int> shuffle(vector<int>& nums, int n) {
         vector<int> result(n * 2);
 
-        int x = 0, y = n;
-        for (int i = 0; i < nums.size(); i++) {
-            if (i % 2 == 0) {
-                result[i] = nums[x];
-                x++;
-            } else {
-                result[i] = nums[y];
-                y++;
-            }
+        int start = 0;
+        for (int i = 0; i < n; i++) {
+            result[start] = nums[i];
+            result[start + 1] = nums[i + n];
+            start += 2;
         }
 
         return result;
