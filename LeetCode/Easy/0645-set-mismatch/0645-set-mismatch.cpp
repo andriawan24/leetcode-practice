@@ -1,25 +1,25 @@
 class Solution {
 public:
     vector<int> findErrorNums(vector<int>& nums) {
-        map<int, int> table;
+        int duplicated = 0;
+        int missing = 0;
 
-        int sameValue = 0;
-        int mustValue = 0;
+        vector<int> v(nums.size() + 1, 0);
 
-        for (const auto num: nums) {
-            table[num]++;
+        for (int i = 0; i < nums.size(); i++) {
+            v[nums[i]]++;
         }
 
         for (int i = 1; i <= nums.size(); i++) {
-            if (table[i] == 2) {
-                sameValue = i;
+            if (v[i] == 2) {
+                duplicated = i;
             }
 
-            if (table[i] == 0) {
-                mustValue = i;
+            if (v[i] == 0) {
+                missing = i;
             }
         }
 
-        return { sameValue, mustValue };
+        return { duplicated, missing };
     }
 };
