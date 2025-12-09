@@ -1,15 +1,14 @@
 class Solution {
 public:
     vector<int> findDisappearedNumbers(vector<int>& nums) {
-        map<int, int> table;
-        vector<int> result;
-
+        vector<int> n(nums.size() + 1, -1);
         for (const auto &num: nums) {
-            table[num]++;
+            n[num]++;
         }
 
-        for (int i = 1; i <= nums.size(); i++) {
-            if (table[i] == 0) {
+        vector<int> result;
+        for (int i = 1; i < nums.size() + 1; i++) {
+            if (n[i] == -1) {
                 result.push_back(i);
             }
         }
