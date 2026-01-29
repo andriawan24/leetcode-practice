@@ -1,12 +1,16 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
+        unordered_map<int, int> table;
+
         for (int i = 0; i < nums.size(); i++) {
-            for (int j = 0; j < nums.size(); j++) {
-                if (i != j && nums[i] + nums[j] == target) {
-                    return {i, j};
-                }
+            int diff = target - nums[i];
+
+            if (table.contains(diff)) {
+                return { table[diff], i };
             }
+
+            table[nums[i]] = i;
         }
 
         return {};
