@@ -1,19 +1,19 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         valids = {'}': '{', ')': '(', ']': '['}
-        cur = []
+        st = deque()
 
         for ch in s:
             if ch not in valids:
-                cur.append(ch)
+                st.append(ch)
             else:
-                if len(cur) == 0:
+                if len(st) == 0:
                     return False
                 
-                if cur[-1] == valids[ch]:
-                    cur.pop()
+                if st[-1] == valids[ch]:
+                    st.pop()
                 else:
                     return False
 
 
-        return len(cur) == 0
+        return len(st) == 0
