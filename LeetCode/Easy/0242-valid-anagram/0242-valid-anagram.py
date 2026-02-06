@@ -6,10 +6,10 @@ class Solution:
         table = {}
 
         for i in s:
-            if i not in table:
-                table[i] = 1
-            else:
+            if i in table:
                 table[i] += 1
+            else:
+                table[i] = 1
 
         for i in t:
             if i not in table or table[i] == 0:
