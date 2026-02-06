@@ -3,21 +3,12 @@ class Solution:
         if len(s) != len(t):
             return False
 
-        table = {}
+        freq = [0] * 26 # Alphabets
 
         for i in s:
-            if i not in table:
-                table[i] = 1
-            else:
-                table[i] += 1
+            freq[ord(i) - ord('a')] += 1
 
         for i in t:
-            if i not in table:
-                return False
+            freq[ord(i) - ord('a')] -= 1
 
-            if table[i] == 0:
-                return False
-
-            table[i] -= 1
-
-        return True
+        return freq == [0] * 26
