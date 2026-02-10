@@ -1,25 +1,11 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-        countRansom = {}
-        countMags = {}
+        countMags = Counter(magazine)
 
         for ch in ransomNote:
-            if ch not in countRansom:
-                countRansom[ch] = 1
-            else:
-                countRansom[ch] += 1
-
-        for ch in magazine:
-            if ch not in countMags:
-                countMags[ch] = 1
-            else:
-                countMags[ch] += 1
-
-        for ch in countRansom:
-            if ch not in countMags:
+            if ch not in countMags or countMags[ch] <= 0:
                 return False
 
-            if countMags[ch] < countRansom[ch]:
-                return False
+            countMags[ch] -= 1
 
         return True
