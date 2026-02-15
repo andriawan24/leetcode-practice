@@ -11,6 +11,5 @@ class Solution:
             res = a + b
             a = b
             b = res
-            print("Res", a, b, res)
 
         return res
