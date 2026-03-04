@@ -4,8 +4,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/andriawan24/leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/andriawan24/leetcode-practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/andriawan24/leetcode-practice/tree/master/0013-roman-to-integer) |
@@ -23,8 +23,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3515-find-if-digit-game-can-be-won](https://github.com/andriawan24/leetcode-practice/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/andriawan24/leetcode-practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0175-combine-two-tables](https://github.com/andriawan24/leetcode-practice/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/andriawan24/leetcode-practice/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/andriawan24/leetcode-practice/tree/master/0182-duplicate-emails) |
@@ -39,11 +39,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1877-find-followers-count](https://github.com/andriawan24/leetcode-practice/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/andriawan24/leetcode-practice/tree/master/1908-recyclable-and-low-fat-products) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/andriawan24/leetcode-practice/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/andriawan24/leetcode-practice/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/andriawan24/leetcode-practice/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/andriawan24/leetcode-practice/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/andriawan24/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/andriawan24/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/andriawan24/leetcode-practice/tree/master/0228-summary-ranges) |
@@ -86,14 +87,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/andriawan24/leetcode-practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/andriawan24/leetcode-practice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0861-flipping-an-image](https://github.com/andriawan24/leetcode-practice/tree/master/0861-flipping-an-image) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/andriawan24/leetcode-practice/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/andriawan24/leetcode-practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0861-flipping-an-image](https://github.com/andriawan24/leetcode-practice/tree/master/0861-flipping-an-image) |
 | [1708-design-parking-system](https://github.com/andriawan24/leetcode-practice/tree/master/1708-design-parking-system) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/andriawan24/leetcode-practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -108,22 +109,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3447-clear-digits](https://github.com/andriawan24/leetcode-practice/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/andriawan24/leetcode-practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0035-search-insert-position](https://github.com/andriawan24/leetcode-practice/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/andriawan24/leetcode-practice/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/andriawan24/leetcode-practice/tree/master/0374-guess-number-higher-or-lower) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/andriawan24/leetcode-practice/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/andriawan24/leetcode-practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/andriawan24/leetcode-practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/andriawan24/leetcode-practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/andriawan24/leetcode-practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/andriawan24/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/andriawan24/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/andriawan24/leetcode-practice/tree/master/0014-longest-common-prefix) |
@@ -170,8 +171,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3412-permutation-difference-between-two-strings](https://github.com/andriawan24/leetcode-practice/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/andriawan24/leetcode-practice/tree/master/3447-clear-digits) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/andriawan24/leetcode-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/andriawan24/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/andriawan24/leetcode-practice/tree/master/0013-roman-to-integer) |
@@ -202,14 +203,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3412-permutation-difference-between-two-strings](https://github.com/andriawan24/leetcode-practice/tree/master/3412-permutation-difference-between-two-strings) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/andriawan24/leetcode-practice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/andriawan24/leetcode-practice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2154-minimum-moves-to-convert-string](https://github.com/andriawan24/leetcode-practice/tree/master/2154-minimum-moves-to-convert-string) |
 | [3195-separate-black-and-white-balls](https://github.com/andriawan24/leetcode-practice/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0217-contains-duplicate](https://github.com/andriawan24/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/andriawan24/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/andriawan24/leetcode-practice/tree/master/0268-missing-number) |
@@ -221,8 +222,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/andriawan24/leetcode-practice/tree/master/2502-sort-the-people) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/andriawan24/leetcode-practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/andriawan24/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/andriawan24/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/andriawan24/leetcode-practice/tree/master/0567-permutation-in-string) |
@@ -230,13 +231,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/andriawan24/leetcode-practice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/andriawan24/leetcode-practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/andriawan24/leetcode-practice/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/andriawan24/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/andriawan24/leetcode-practice/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/andriawan24/leetcode-practice/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/andriawan24/leetcode-practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/andriawan24/leetcode-practice/tree/master/0389-find-the-difference) |
@@ -248,17 +250,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2308-divide-array-into-equal-pairs](https://github.com/andriawan24/leetcode-practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/andriawan24/leetcode-practice/tree/master/2427-first-letter-to-appear-twice) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/andriawan24/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/andriawan24/leetcode-practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/andriawan24/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/andriawan24/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/andriawan24/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/andriawan24/leetcode-practice/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -269,20 +271,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2308-divide-array-into-equal-pairs](https://github.com/andriawan24/leetcode-practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/andriawan24/leetcode-practice/tree/master/2427-first-letter-to-appear-twice) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/andriawan24/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/andriawan24/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/andriawan24/leetcode-practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/andriawan24/leetcode-practice/tree/master/2128-reverse-prefix-of-word) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/andriawan24/leetcode-practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/andriawan24/leetcode-practice/tree/master/3447-clear-digits) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/andriawan24/leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/andriawan24/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/andriawan24/leetcode-practice/tree/master/0202-happy-number) |
@@ -297,48 +299,48 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3195-separate-black-and-white-balls](https://github.com/andriawan24/leetcode-practice/tree/master/3195-separate-black-and-white-balls) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/andriawan24/leetcode-practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/andriawan24/leetcode-practice/tree/master/0241-different-ways-to-add-parentheses) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/andriawan24/leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/andriawan24/leetcode-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/andriawan24/leetcode-practice/tree/master/0326-power-of-three) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/andriawan24/leetcode-practice/tree/master/0241-different-ways-to-add-parentheses) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/andriawan24/leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/andriawan24/leetcode-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/andriawan24/leetcode-practice/tree/master/0014-longest-common-prefix) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/andriawan24/leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/andriawan24/leetcode-practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/andriawan24/leetcode-practice/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1708-design-parking-system](https://github.com/andriawan24/leetcode-practice/tree/master/1708-design-parking-system) |
 ## Interactive
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/andriawan24/leetcode-practice/tree/master/0374-guess-number-higher-or-lower) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/andriawan24/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/andriawan24/leetcode-practice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
