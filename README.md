@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1302-delete-characters-to-make-fancy-string](https://github.com/andriawan24/leetcode-practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/andriawan24/leetcode-practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/andriawan24/leetcode-practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/andriawan24/leetcode-practice/tree/main/LeetCode/Easy/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1786-count-the-number-of-consistent-strings](https://github.com/andriawan24/leetcode-practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/andriawan24/leetcode-practice/tree/master/1797-goal-parser-interpretation) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/andriawan24/leetcode-practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
