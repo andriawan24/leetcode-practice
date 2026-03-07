@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/andriawan24/leetcode-practice/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/andriawan24/leetcode-practice/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0035-search-insert-position](https://github.com/andriawan24/leetcode-practice/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/andriawan24/leetcode-practice/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/andriawan24/leetcode-practice/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
