@@ -245,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/andriawan24/leetcode-practice/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/andriawan24/leetcode-practice/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/andriawan24/leetcode-practice/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/andriawan24/leetcode-practice/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/andriawan24/leetcode-practice/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/andriawan24/leetcode-practice/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/andriawan24/leetcode-practice/tree/master/0861-flipping-an-image) |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/andriawan24/leetcode-practice/tree/master/0241-different-ways-to-add-parentheses) |
+| [0338-counting-bits](https://github.com/andriawan24/leetcode-practice/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
