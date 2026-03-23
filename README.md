@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/andriawan24/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0500-keyboard-row](https://github.com/andriawan24/leetcode-practice/tree/master/0500-keyboard-row) |
 | [0539-minimum-time-difference](https://github.com/andriawan24/leetcode-practice/tree/master/0539-minimum-time-difference) |
+| [0636-exclusive-time-of-functions](https://github.com/andriawan24/leetcode-practice/tree/main/LeetCode/Medium/0636-exclusive-time-of-functions/) | Medium |
 | [0861-flipping-an-image](https://github.com/andriawan24/leetcode-practice/tree/master/0861-flipping-an-image) |
 | [1241-decompress-run-length-encoded-list](https://github.com/andriawan24/leetcode-practice/tree/master/1241-decompress-run-length-encoded-list) |
 | [1435-xor-queries-of-a-subarray](https://github.com/andriawan24/leetcode-practice/tree/master/1435-xor-queries-of-a-subarray) |
@@ -283,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/andriawan24/leetcode-practice/tree/master/0020-valid-parentheses) |
+| [0636-exclusive-time-of-functions](https://github.com/andriawan24/leetcode-practice/tree/main/LeetCode/Medium/0636-exclusive-time-of-functions/) | Medium |
 | [0844-backspace-string-compare](https://github.com/andriawan24/leetcode-practice/tree/main/LeetCode/Easy/0844-backspace-string-compare/) | Easy |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/andriawan24/leetcode-practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/andriawan24/leetcode-practice/tree/master/2128-reverse-prefix-of-word) |
