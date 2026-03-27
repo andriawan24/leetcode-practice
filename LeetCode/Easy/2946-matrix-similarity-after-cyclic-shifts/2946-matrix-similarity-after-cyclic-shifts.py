@@ -1,16 +1,15 @@
 class Solution:
     def areSimilar(self, mat: List[List[int]], k: int) -> bool:
-        res = mat.copy()
+        n = len(mat)
+        m = len(mat[0])
+        k %= m
+        
+        if not k:
+            return True
 
         for i in range(k):
-            for k in range(len(res)):
-                if k % 2 == 0:
-                    res[k] = res[k][1:] + res[k][:1]
-                else:
-                    res[k] = res[k][-1:] + res[k][:-1]
-
-        for i in range(len(res)):
-            if res[i] != mat[i]:
+            row = mat[i][(-1) ** (i) * k:] + mat[i][:(-1) ** (i) * k]
+            if row != mat[i]:
                 return False
 
         return True
