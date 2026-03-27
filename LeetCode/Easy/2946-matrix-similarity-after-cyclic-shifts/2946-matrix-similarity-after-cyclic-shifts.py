@@ -3,11 +3,11 @@ class Solution:
         n = len(mat)
         m = len(mat[0])
         k %= m
-        
+
         if not k:
             return True
 
-        for i in range(k):
+        for i in range(n):
             row = mat[i][(-1) ** (i) * k:] + mat[i][:(-1) ** (i) * k]
             if row != mat[i]:
                 return False
