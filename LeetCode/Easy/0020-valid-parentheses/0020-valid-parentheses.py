@@ -7,10 +7,7 @@ class Solution:
             if ch not in valids:
                 st.append(ch)
             else:
-                if len(st) == 0:
-                    return False
-                
-                if st[-1] == valids[ch]:
+                if len(st) > 0 and st[-1] == valids[ch]:
                     st.pop()
                 else:
                     return False
