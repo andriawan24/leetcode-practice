@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/andriawan24/leetcode-practice/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0035-search-insert-position](https://github.com/andriawan24/leetcode-practice/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/andriawan24/leetcode-practice/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/andriawan24/leetcode-practice/tree/main/LeetCode/Easy/0118-pascals-triangle/) | Easy |
 | [0136-single-number](https://github.com/andriawan24/leetcode-practice/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/andriawan24/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/andriawan24/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
@@ -317,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0118-pascals-triangle](https://github.com/andriawan24/leetcode-practice/tree/main/LeetCode/Easy/0118-pascals-triangle/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/andriawan24/leetcode-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0338-counting-bits](https://github.com/andriawan24/leetcode-practice/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
 ## Recursion
