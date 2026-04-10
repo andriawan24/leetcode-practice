@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/andriawan24/leetcode-practice/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/andriawan24/leetcode-practice/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/andriawan24/leetcode-practice/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/andriawan24/leetcode-practice/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0539-minimum-time-difference](https://github.com/andriawan24/leetcode-practice/tree/master/0539-minimum-time-difference) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/andriawan24/leetcode-practice/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/andriawan24/leetcode-practice/tree/master/1635-number-of-good-pairs) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/andriawan24/leetcode-practice/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/andriawan24/leetcode-practice/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/andriawan24/leetcode-practice/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/andriawan24/leetcode-practice/tree/master/0374-guess-number-higher-or-lower) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/andriawan24/leetcode-practice/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/andriawan24/leetcode-practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
