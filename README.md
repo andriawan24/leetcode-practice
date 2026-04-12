@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2556-convert-the-temperature](https://github.com/andriawan24/leetcode-practice/tree/master/2556-convert-the-temperature) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/andriawan24/leetcode-practice/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3227-find-missing-and-repeated-values](https://github.com/andriawan24/leetcode-practice/tree/master/3227-find-missing-and-repeated-values) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/andriawan24/leetcode-practice/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3515-find-if-digit-game-can-be-won](https://github.com/andriawan24/leetcode-practice/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/andriawan24/leetcode-practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Database
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/andriawan24/leetcode-practice/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/andriawan24/leetcode-practice/tree/master/3429-special-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/andriawan24/leetcode-practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/andriawan24/leetcode-practice/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3515-find-if-digit-game-can-be-won](https://github.com/andriawan24/leetcode-practice/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/andriawan24/leetcode-practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/andriawan24/leetcode-practice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
