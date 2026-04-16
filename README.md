@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/andriawan24/leetcode-practice/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/andriawan24/leetcode-practice/tree/master/3429-special-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/andriawan24/leetcode-practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3488-closest-equal-element-queries](https://github.com/andriawan24/leetcode-practice/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/andriawan24/leetcode-practice/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3515-find-if-digit-game-can-be-won](https://github.com/andriawan24/leetcode-practice/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/andriawan24/leetcode-practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0374-guess-number-higher-or-lower](https://github.com/andriawan24/leetcode-practice/tree/master/0374-guess-number-higher-or-lower) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/andriawan24/leetcode-practice/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/andriawan24/leetcode-practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3488-closest-equal-element-queries](https://github.com/andriawan24/leetcode-practice/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/andriawan24/leetcode-practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/andriawan24/leetcode-practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3412-permutation-difference-between-two-strings](https://github.com/andriawan24/leetcode-practice/tree/master/3412-permutation-difference-between-two-strings) |
+| [3488-closest-equal-element-queries](https://github.com/andriawan24/leetcode-practice/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/andriawan24/leetcode-practice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Greedy
 | Problem Name | Difficulty |
